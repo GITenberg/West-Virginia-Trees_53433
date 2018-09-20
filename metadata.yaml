@@ -1,5 +1,8 @@
 _repo: West-Virginia-Trees_53433
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53433-h/images/cover.jpg
 creator:
   author:
     agent_name: Brooks, A. B. (Alonzo Beecher)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47372'
     url: http://www.gutenberg.org/2009/agents/47372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53433#West-Virginia-Trees
 gutenberg_issued: '2016-11-02'
 gutenberg_type: Text
 identifiers:
